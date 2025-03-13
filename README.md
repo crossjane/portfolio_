@@ -1,5 +1,4 @@
-# portfolio_
-깃허브 포트폴리오 프로젝트모음
+
 
 ## 개인 프로젝트 & AWS 배포
 🎨[To-do List](http://ec2-13-208-175-84.ap-northeast-3.compute.amazonaws.com:4000/) / [Git코드](https://github.com/crossjane/ReactTodoList.git) <br/>
@@ -53,5 +52,3 @@ React, API 연동, 상태 관리, 동적 라우팅, 컴포넌트 설계 등 프�
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-## 포폴 
