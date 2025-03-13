@@ -9,6 +9,9 @@ React, API 연동, 상태 관리, 동적 라우팅, 컴포넌트 설계 등 프�
 
 🚀[간단한 게시판](http://ec2-13-208-175-84.ap-northeast-3.compute.amazonaws.com:5000/) / [Git코드](https://github.com/crossjane/board_react.git)<br/>
 이 프로젝트는 단순한 CRUD 기능을 구현하는 것뿐만 아니라, 배열과 객체의 차이를 정확히 이해하고, 비구조화 할당, map, filter 등의 활용을 익히면서 코드의 숙련도를 높였습니다.<br/>
+
+☀️[날씨API Git](https://github.com/crossjane/weather.git)</br>
+날씨 API를 불러와 날씨 구현하였습니다. (미배포)
 </br>
 </br>
 
