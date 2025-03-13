@@ -13,9 +13,12 @@ React, API 연동, 상태 관리, 동적 라우팅, 컴포넌트 설계 등 프�
 </br>
 
 
-## 팀 프로젝트 
+## 팀 프로젝트
 💡[PlantLab Git](https://github.com/crossjane/PlantLab_project.git)<br/>
+내가 키우는 식물의 정보를 공유하고, 원하는 조건에 맞는 식물을 필터링하여 구매할 수 있는 커뮤니티형 스토어를 제작하였습니다.
 💡[DataInk Git](https://github.com/crossjane/DataInk-Front.git)</br>
+🎬[DataInk 발표자료,작동 영상](https://www.canva.com/design/DAGUpbUUGfA/ZtUC8ZoT02fRTmRHlsfb3A/edit)</br>
+텍스트 데이터 라벨링 협업 툴을 제작하였습니다. 
 </br>
 </br>
 
