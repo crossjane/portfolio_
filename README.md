@@ -1,17 +1,25 @@
 
 
 ## 개인 프로젝트 & AWS 배포
-🎨[To-do List](http://ec2-13-208-175-84.ap-northeast-3.compute.amazonaws.com:4000/) / [Git코드](https://github.com/crossjane/ReactTodoList.git) <br/>
+
+[My blog](http://15.152.49.187:3000/)<br/>
+개인 미니 프로젝트를 하면서 습득했던 기술을 디벨롭, 익숙해지고자 구현하였습니다.<br/>
+
+</br>
+</br>
+
+## 개인 미니 프로젝트
+🎨[To-do List][Git코드](https://github.com/crossjane/ReactTodoList.git) <br/>
 React 작동 원리 습득 순수 자바스크립트로 작성한 Todo List를 React로 리팩토링하며, React의 작동 원리와 상태 관리 방식을 실질적으로 익히고자 하였습니다.<br/>
 
-🎬[영화소개 웹페이지](http://ec2-13-208-175-84.ap-northeast-3.compute.amazonaws.com:3000/) / [Git코드](https://github.com/crossjane/MovieList.git)<br/>
+🎬[영화소개 웹페이지][Git코드](https://github.com/crossjane/MovieList.git)<br/>
 React, API 연동, 상태 관리, 동적 라우팅, 컴포넌트 설계 등 프론트엔드 개발의 핵심 개념을 복습하고 실전 프로젝트 경험을 쌓는 것을 목표로하였습니다.<br/>
 
-🚀[간단한 게시판](http://ec2-13-208-175-84.ap-northeast-3.compute.amazonaws.com:5000/) / [Git코드](https://github.com/crossjane/board_react.git)<br/>
+🚀[간단한 게시판][Git코드](https://github.com/crossjane/board_react.git)<br/>
 이 프로젝트는 단순한 CRUD 기능을 구현하는 것뿐만 아니라, 배열과 객체의 차이를 정확히 이해하고, 비구조화 할당, map, filter 등의 활용을 익히면서 코드의 숙련도를 높였습니다.<br/>
 
 ☀️[날씨API Git](https://github.com/crossjane/weather.git)</br>
-날씨 API를 불러와 날씨 구현하였습니다. (미배포)
+날씨 API를 불러와 날씨 구현하였습니다.
 </br>
 </br>
 
