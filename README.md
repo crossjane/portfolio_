@@ -8,6 +8,13 @@
 </br>
 </br>
 
+## 미니 협업 프로젝트 & 실제 서버 연결 
+
+💸[경제 사이트](http://github.com/crossjane/economy.git)<br/>
+
+</br>
+</br>
+
 ## 개인 미니 프로젝트
 🎨[To-do List][Git코드](https://github.com/crossjane/ReactTodoList.git) <br/>
 React 작동 원리 습득 순수 자바스크립트로 작성한 Todo List를 React로 리팩토링하며, React의 작동 원리와 상태 관리 방식을 실질적으로 익히고자 하였습니다.<br/>
@@ -72,4 +79,7 @@ React, API 연동, 상태 관리, 동적 라우팅, 컴포넌트 설계 등 프�
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
