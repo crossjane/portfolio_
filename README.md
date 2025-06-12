@@ -10,7 +10,8 @@
 
 ## 미니 협업 프로젝트 & 실제 서버 연결 
 
-💸[경제 사이트](http://github.com/crossjane/economy.git)<br/>
+💸[경제 사이트](http://github.com/crossjane/economy_project.git)<br/>
+(디벨롭 중)
 
 </br>
 </br>
